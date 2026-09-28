@@ -1,0 +1,7 @@
+apache-airflow==2.9.3
+pandas
+pyarrow
+minio
+pyyaml
+sqlalchemy
+psycopg2-binary
